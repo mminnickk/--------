@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 
 # URL에서 HTML 가져오기
-url = "https://example.com"
+url = "https://https://www.google.com/?hl=ko"
 response = requests.get(url)
 html_content = response.text
 
